@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6xklYvj4VVzb81y2j5C7aBkCg6VukxFKsYLw2jV58BKURt75JQlTbQyBVYG3+R5mmRC2Lwkr9n4CLxRSmfqnoA==",
+  "success": true,
+  "projectFilePath": "/home/weakest_frontend/Documentos/Todo/src/Todo.Domain/Todo.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/weakest_frontend/.nuget/packages/fluentvalidation/11.6.0/fluentvalidation.11.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

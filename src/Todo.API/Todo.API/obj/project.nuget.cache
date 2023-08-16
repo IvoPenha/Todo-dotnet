@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2uMbl0iuiR20mbEQHdOhL09qO6zTKm14DeBQMItFTIc7GKZ1nRONgKKAcaUSX6s7aok8jNbexOn9MFOjS7rOw==",
+  "success": true,
+  "projectFilePath": "/home/weakest_frontend/Documentos/Todo/src/Todo.API/Todo.API/Todo.API.csproj",
+  "expectedPackageFiles": [
+    "/home/weakest_frontend/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/weakest_frontend/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/weakest_frontend/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/weakest_frontend/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/weakest_frontend/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/weakest_frontend/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
